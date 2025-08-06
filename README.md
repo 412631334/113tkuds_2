@@ -7,3 +7,6 @@
 vs code, cscode插件
 java 安裝, 版本截圖
 新增 githubdesk 截圖
+
+## 0806
+陣列練習
